@@ -20,7 +20,7 @@ const AccessibilityPanel: React.FC<Props> = ({ settings, updateSettings, resetSe
       <div className="p-4 border-b flex items-center justify-between bg-[var(--utm-maroon)] text-white">
         <h2 className="text-xl font-bold flex items-center gap-2">
           <Eye className="w-6 h-6" />
-          Accessibility Center
+          Accessibility Center by Alex-Lee-Bang
         </h2>
         <button 
           onClick={onClose}
