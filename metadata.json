@@ -1,0 +1,7 @@
+{
+  "name": "UTM Accessible E-Learning",
+  "description": "A high-fidelity e-learning platform prototype for UTM with an integrated accessibility control panel, AI-powered content simplification, and multi-modal display options.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
